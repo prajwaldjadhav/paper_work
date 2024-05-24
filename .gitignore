@@ -1,0 +1,9 @@
+# Default ignored files
+.gradle
+.idea
+/build
+/app/build/
+/app/build/intermediates/
+/app/build/intermediates/apk/
+/app/build/intermediates/dex/
+/app/build/intermediates/incremental/
